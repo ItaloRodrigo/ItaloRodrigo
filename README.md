@@ -1,4 +1,4 @@
-## Oiii eu sou a Italo Rodrigo, desenvolvedor apaixonado por tecnologias web e criado de conteúdo digital!
+## Oiii eu sou o Italo Rodrigo, desenvolvedor apaixonado por tecnologias web e criado de conteúdo digital!
 <div align="center">
   <a href="https://github.com/ItaloRodrigo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItaloRodrigo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -16,3 +16,12 @@
 </div>
   
   ##
+  
+  <div> 
+  <a href="https://www.youtube.com/channel/UCVA_9GD6a4gqaS1X_opCX1Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/italo.computation/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/YvxbR4hF" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:italo.computation@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/%C3%ADtalo-rodrigo-soares-silva-a300b3169/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
