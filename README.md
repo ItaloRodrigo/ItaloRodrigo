@@ -1,4 +1,4 @@
-## Oiii eu sou o Italo Rodrigo, desenvolvedor apaixonado por tecnologias web e criado de conteúdo digital!
+## Oiii eu sou o Italo Rodrigo, desenvolvedor apaixonado por tecnologias web e criador de conteúdo digital!
 <div align="center">
   <a href="https://github.com/ItaloRodrigo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItaloRodrigo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
